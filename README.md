@@ -76,8 +76,9 @@ print("\nTransformed Dataset Preview:")
 print(positive_data.head())
 ```
 
+<img src="https://image2url.com/r2/default/images/1773478852421-e681306f-2cb9-48e2-baea-9a9378537d38.png" alt="image" />
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
-
+    
+Successfully read the given data and performed Feature Encoding and Transformation process and saved the data to a file.
        
